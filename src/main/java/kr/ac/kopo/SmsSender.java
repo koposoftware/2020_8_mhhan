@@ -13,9 +13,9 @@ import kr.ac.kopo.participant.vo.ParticipantVO;
 public class SmsSender {
  // Find your Account Sid and Auth Token at twilio.com/console
 	 public static final String ACCOUNT_SID =
-	         "AC01e8bc10bf65a6272002c0d1d48cc9bf";
+	         "";
 	 public static final String AUTH_TOKEN =
-	         "abf70692cf7a37c2c68b6eb1ec9ee370";
+	         "";
 	 
 //	 public static void main(String[] args) {
 //	     Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
