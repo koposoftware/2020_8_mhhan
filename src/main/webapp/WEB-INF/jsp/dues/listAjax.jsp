@@ -61,7 +61,7 @@
 <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
 <script>
 	<!-- javaScript 키를 할당하여 초기화 함수를 호출 -->
-	Kakao.init('b97f5e6fd4e89053e09e2b07e0f24dad');		//자신의 appkey 삽입
+	Kakao.init('');		//자신의 appkey 삽입
 	console.log(Kakao.isInitialized());
 </script>	 
 <script>
