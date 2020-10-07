@@ -66,7 +66,7 @@ Etc : Git(Git Bash)
 <br>
 
 ### 워크플로우
-<img src="hanamoim_workFlow..JPG"/><br>
+<img src="hanamoim_workFlow.JPG"/><br>
 <br>
  
 ### 기대효과
@@ -77,15 +77,15 @@ Etc : Git(Git Bash)
 <br>
 
 ### 보완점
-1.개인정보처리
-2.동시 접속자 / 모임통장 인원 확장
-3.플랫폼 확장
+1.개인정보처리<br>
+2.동시 접속자 / 모임통장 인원 확장<br>
+3.플랫폼 확장<br>
 <br>
 
 
 # 4. 본인 소개
 
-|이름 |한미희|![gdKO](/윤다영.jpg)|
+|이름 |한미희|![gdKO](/.jpg)|
 |연락처 | answer_lm(@).com|
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
