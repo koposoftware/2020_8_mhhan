@@ -85,7 +85,7 @@ Etc : Git(Git Bash)
 
 # 4. 본인 소개
 
-|이름 |한미희|![gdKO](/.jpg)|
+|이름 |한미희|![gdKO](/한미희.jpg)|
 |연락처 | answer_lm(@).com|
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
