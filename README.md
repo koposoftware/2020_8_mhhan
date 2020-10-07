@@ -1,6 +1,6 @@
 # 프로젝트 제목
 
-[프로젝트 홈페이지 - https://koposoftware.github.io/2020_10_mhhan/](https://koposoftware.github.io/2020_10_mhhan/)
+[프로젝트 홈페이지 - https://koposoftware.github.io/2020_10_mhhan/](https://koposoftware.github.io/2020_8_mhhan/)
 
 # 1. 프로젝트 개요
 
